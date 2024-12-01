@@ -16,13 +16,16 @@ npm install -g yarn
 - Using `yarn` to install project dependencies.
 
 ```bash
-$ yarn install
+yarn install
 ```
 
 - Start `Todo app` in development mode.
 
 ```bash
 yarn dev
-# or
+```
+or
+
+```bash
 npm run dev
 ```
